@@ -14,9 +14,6 @@ I bring data to life with:
 
 ## ⭐ Data Viz Projects
 
-<a href="https://public.tableau.com/app/profile/nadholloway/viz/TheGreatNADventure/Dashboard12">
-    <img src="https://public.tableau.com/app/profile/nadholloway/viz/TheGreatNADventure/Dashboard12" width ="25%">
-  </a>
  
 
 ## About Me
